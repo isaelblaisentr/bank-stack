@@ -8,7 +8,7 @@ A simple Next.js app for the context of online money transfers.
 - [X] Init Shadcn/ui
 - [ ] Scaffold basic ui with mock data
 - [ ] Set up a database (vercel postgres)
-- [ ] Create reliable & basic SQL schema for context
+- [X] Create reliable & basic SQL schema for context
 - [ ] Create basic ui with lists & forms (Shadui / tailwind)
 - [ ] Routing management
 - [ ] Add authentication
