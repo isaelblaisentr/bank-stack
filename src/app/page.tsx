@@ -1,3 +1,4 @@
+import { CardWithForm } from "~/components/ui/card-with-form";
 
 export default function HomePage() {
   return (
@@ -6,6 +7,7 @@ export default function HomePage() {
         <h1 className="text-5xl font-extrabold tracking-tight text-white sm:text-[5rem]">
           Bank <span className="text-[hsl(280,100%,70%)]">Stack</span> App
         </h1>
+        <CardWithForm />
       </div>
     </main>
   );
