@@ -4,7 +4,8 @@ A simple Next.js app for the context of online money transfers.
 
 ## TODO
 
-- [ ] Make it deploy (vercel)
+- [X] Make it deploy (vercel)
+- [X] Init Shadcn/ui
 - [ ] Scaffold basic ui with mock data
 - [ ] Set up a database (vercel postgres)
 - [ ] Create reliable & basic SQL schema for context
